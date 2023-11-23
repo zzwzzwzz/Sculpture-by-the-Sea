@@ -15,8 +15,6 @@
 -- One sculpture can be designed by many artists, and one artist can design many sculptures.
 
 
-
-
 DROP TABLE IF EXISTS Sculpture CASCADE;
 DROP TABLE IF EXISTS Material CASCADE;
 DROP TABLE IF EXISTS Award CASCADE;
